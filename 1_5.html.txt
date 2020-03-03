@@ -2,3 +2,4 @@ git init // для ініціалізації
 git add // додати
 git commit -m // додати коментар 
 git remote add origin https://github.com/ruslan29062000/pz2.git 
+git push -u origin master
